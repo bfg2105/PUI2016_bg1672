@@ -3,7 +3,7 @@ I set up my environment I made a directory on compute called PUI2016_bg1672. The
 
 I was somewhat confused as to how to set this environmental variable.  I used the tutorial from this website to guide my process: https://www.digitalocean.com/community/tutorials/how-to-read-and-set-environmental-and-shell-variables-on-a-linux-vps
 
-![Screenshot] (Phttps://github.com/bfg2105/PUI2016_bg1672/blob/master/HW1_bg1672/Screen%20Shot%202016-09-14%20at%202.04.13%20PM.png)
+![Screenshot] (https://github.com/bfg2105/PUI2016_bg1672/blob/master/HW1_bg1672/Screen%20Shot%202016-09-14%20at%202.04.13%20PM.png)
 
 ![Screenshot 2] (PUI2016_bg1672/HW1_bg1672/Screen Shot 2016-09-14 at 2.04.13 PM.png)
 
