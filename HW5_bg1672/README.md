@@ -30,19 +30,19 @@ $N_0 = P_test - P_control <= 0$**
 Do American trust the president?
 POLL RESULTS: On May 16, 1994, Newsweek reported the results of a public opinion poll that asked: “From everything you know about Bill Clinton, does he have the honesty and integrity you expect in a president?” (p. 23). Poll surveyed 518 adults and 233, or 0.45 of them answered yes.
 
-Null Hypothesis: The percent of Americans polled who trust the president is less than 50%.
-$H_0 = P_polled < 50%
+**Null Hypothesis: The percent of Americans polled who trust the president is less than 50%.
+$H_0 = P_polled < 50%**
 
 
 Effectiveness of nicotine patches to quit smoking.
 Experimental setup: measure cessation rates for smokers randomly assigned to use a nicotine patch versus a placebo patch.
 
-Null Hypothesis: The cessation rates of smokers using the nicotine patch is less than or equal to the cessation rates of smokers using a placebo patch.
-$H_0 = P_test - P_placebo <= o$
+**Null Hypothesis: The cessation rates of smokers using the nicotine patch is less than or equal to the cessation rates of smokers using a placebo patch.
+$H_0 = P_test - P_placebo <= o$**
 
 Quantify the danger of smoking for pregnant women.
 Experimemtal setup: measure IQ of children at ages 1, 2, 3, and 4 years of age.
 
-Null Hypothesis: The mean IQs of children of women who smoked during pregnancy at ages 1, 2, 3, and 4 years is higher than or the same as the \
+**Null Hypothesis: The mean IQs of children of women who smoked during pregnancy at ages 1, 2, 3, and 4 years is higher than or the same as the \
 mean IQ of children of women who did not smoke during pregnancy. 
-$H_0 = P_smoke - P_control >= 0$
+$H_0 = P_smoke - P_control >= 0$**
