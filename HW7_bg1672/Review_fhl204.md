@@ -17,7 +17,7 @@ the higher station numbers are in more densely populated/high traffic areas.  Al
 number of rides are so much higher in the higher station numbers.  Though it seems counter intuitive for the variable, 
 station number, a regression line might be interesting to see here.
 
-The graph has piqued my interest. Great work!
+The graph has piqued my interest.  Great work!
 
 
 <c>
