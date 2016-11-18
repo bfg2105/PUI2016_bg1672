@@ -16,3 +16,6 @@ The polynomial model was a better fit.
 
 ### Assignment 2:
 My write up is on https://www.authorea.com/users/106627/articles/134234/_show_article
+
+# FBB excellent considerations, good job! 
+a few comments were left in the authorea article
